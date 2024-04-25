@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "omkar",
+      "email": "op@gmail.com",
+      "mobileNo": "9999999999",
+      "id": 1
+    },
+    {
+      "name": "patil",
+      "email": "p@gmail.com",
+      "mobileNo": "8888888888",
+      "id": 2
+    },
+    {
+      "name": "ommi",
+      "email": "om@gmail.com",
+      "mobileNo": "4444444444",
+      "id": 3
+    }
+  ]
+}
